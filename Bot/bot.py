@@ -65,4 +65,4 @@ async def on_message(message):
         await bot.process_commands(message)
 
 # 🔑 Put your token below
-bot.run("MTM1OTMxNTgyNzI3NDQyMDMzNg.Gdj6di.FdXQuVkQ0pMZMDagiB5_YaNgFnsGTLW4eOocLs")
+bot.run("MTM1OTMxNTgyNzI3NDQyMDMzNg.Gd-HhE.DnWrgcmi9ZBVlFvdAVPJFtQM3VdTEPYIbnPsFE")
